@@ -1,0 +1,4 @@
+For instance, in your library management system, you could use:
+
+OOP to create classes for User, Book, and Library, encapsulating properties and methods that operate on each.
+FP for utilities, such as searching/filtering books, sorting, or other data transformations.
